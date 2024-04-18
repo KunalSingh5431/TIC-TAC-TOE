@@ -33,7 +33,7 @@ Make sure you have Python installed on your machine. You can download it from [p
 1. Clone the repository:
 
 bash
-git clone https://github.com/your_username/ai-tic-tac-toe.git
+git clone (https://github.com/KunalSingh5431/TIC-TAC-TOE).git
 
 
 # Built With
@@ -51,7 +51,7 @@ Contributions are welcome! Please feel free to submit a pull request with your i
 
 # Authors
 
-- Kunal Singh - [GitHub Profile](https://github.com/your_username)
+- Kunal Singh - [GitHub Profile](https://github.com/KunalSingh5431)
 
 [Back to Introduction](README.md#ai-tic-tac-toe)
 
