@@ -12,5 +12,56 @@ Welcome to AI Tic-Tac-Toe! This is a classic game of Tic-Tac-Toe implemented in 
 - Choose between playing as 'X' or 'O'.
 - Simple and intuitive interface.
 
+[Back to Introduction](README.md#ai-tic-tac-toe)
+
+# Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+[Prerequisites](#prerequisites) | [Installation](#installation) | [Usage](#usage)
+
+[Back to Introduction](README.md#ai-tic-tac-toe)
+
+# Prerequisites
+
+Make sure you have Python installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
+
+[Back to Getting Started](README.md#getting-started)
+
+# Installation
+
+1. Clone the repository:
+
+bash
+git clone https://github.com/your_username/ai-tic-tac-toe.git
+
+
+# Built With
+
+- [Python](https://www.python.org/) - The programming language used
+- [Minimax Algorithm](https://en.wikipedia.org/wiki/Minimax) - AI algorithm for decision making
+
+[Back to Introduction](README.md#ai-tic-tac-toe)
+
+# Contributing
+
+Contributions are welcome! Please feel free to submit a pull request with your improvements.
+
+[Back to Introduction](README.md#ai-tic-tac-toe)
+
+# Authors
+
+- Kunal Singh - [GitHub Profile](https://github.com/your_username)
+
+[Back to Introduction](README.md#ai-tic-tac-toe)
+
+# License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+[Back to Introduction](README.md#ai-tic-tac-toe)
+
+
+
 
 
