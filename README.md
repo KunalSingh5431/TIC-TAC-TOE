@@ -14,7 +14,9 @@ Welcome to the TIC-TAC-TOE game! This is an interactive and simple implementatio
 
 ## 🤖 Tech Stack
 
-- **Frontend Language:** JavaScript, HTML, CSS , Python
+- **Frontend Language:** JavaScript, HTML, CSS
+- **Backend Language:** Python
+- **Backend Framework:** Flask
 - **AI Algorithm:** Minimax Algorithm (random move selection)
 
 ## ▶️ Installation
