@@ -2,7 +2,7 @@
 
 Welcome to the TIC-TAC-TOE game! This is an interactive and simple implementation of the classic game with an option to play against another player or challenge an AI opponent. The game is developed using **JavaScript** for the frontend, providing an exciting experience whether you're playing solo or with a friend.
 
-![Tic-Tac-Toe](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/200px-Tic_tac_toe.svg.png)
+![Tic-Tac-Toe]([https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/200px-Tic_tac_toe.svg.png](https://t4.ftcdn.net/jpg/05/48/38/77/360_F_548387757_a35my1LOIGRQxzqCok6wTbjrdxy21t6x.jpg))
 
 ## 🗝️ Features
 
