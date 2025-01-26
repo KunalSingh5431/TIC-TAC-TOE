@@ -1,19 +1,21 @@
-# 🚀 TIC-TAC-TOE
+# 🚀 TIC-TAC-TOE Game
 
-Welcome to the TIC-TAC-TOE game! This is an implementation of the classic game using Python with an AI algorithm.
+Welcome to the TIC-TAC-TOE game! This is an interactive and simple implementation of the classic game with an option to play against another player or challenge an AI opponent. The game is developed using **JavaScript** for the frontend, providing an exciting experience whether you're playing solo or with a friend.
 
 ![Tic-Tac-Toe](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/200px-Tic_tac_toe.svg.png)
 
 ## 🗝️ Features
 
-- **Player vs Player:** Play against another human player.
-- **Player vs AI:** Play against an AI opponent with intelligent decision-making.
-- **Command-Line Interface:** Simple and interactive text-based interface.
+- **Player vs Player:** Play with another human player on the same device.
+- **Player vs AI:** Play against an AI opponent with random moves.
+- **Interactive UI:** Beautiful and user-friendly interface for an engaging experience.
+- **Game Mode Selection:** Choose between single-player or two-player mode.
+- **Reset Functionality:** Reset the game board at any time.
 
 ## 🤖 Tech Stack
 
-- **Language:** Python
-- **AI Algorithm:** Minimax algorithm
+- **Frontend Language:** JavaScript, HTML, CSS , Python
+- **AI Algorithm:** Minimax Algorithm (random move selection)
 
 ## ▶️ Installation
 
@@ -25,27 +27,32 @@ To run the game locally, follow these steps:
     cd TIC-TAC-TOE
     ```
 
-2. **Install dependencies:**
-    Ensure you have Python installed. You can install any necessary dependencies using:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
-3. **Run the game:**
-    ```sh
-    python tic_tac_toe.py
-    ```
+2. **Open the game:**
+    Open `index.html` in any browser to play the game. No additional installations are required.
 
 ## 🖥️ How to Play
 
-1. The game is played on a 3x3 grid.
-2. Player 1 is X and Player 2 (or the AI) is O. Players take turns putting their marks in empty squares.
-3. The first player to get 3 of their marks in a row (up, down, across, or diagonally) wins.
-4. If all 9 squares are full and no player has 3 marks in a row, the game is considered a draw.
+1. **Game Modes:**
+   - **Player vs Player:** Two players take turns to place their marks (X or O) on the board.
+   - **Player vs AI:** Player 1 (X) competes against the AI (O). The AI selects random moves.
+
+2. **Gameplay:**
+   - The game is played on a 3x3 grid.
+   - Player 1 is X and Player 2 (or the AI) is O. Players take turns marking empty squares.
+   - The first player to align 3 marks in a row (up, down, across, or diagonally) wins.
+   - If all squares are filled and no player wins, it’s a draw.
+
+3. **Starting the Game:**
+   - Select the game mode: Player vs Player or Player vs AI.
+   - Enter player names (if playing Player vs Player).
+   - Press the "Start Game" button to begin.
+
+4. **Resetting the Game:**
+   - Use the "Reset Board" button to reset the board for a new game.
 
 ## AI Algorithm
 
-The AI opponent uses the Minimax algorithm to make optimal moves. This ensures a challenging game experience for the player.
+The AI opponent in single-player mode uses random moves to make its decisions. While basic, it provides a challenging opponent for casual gameplay.
 
 ## ☑️ Contributing
 
