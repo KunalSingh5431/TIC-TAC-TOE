@@ -50,7 +50,7 @@ To run the game locally, follow these steps:
 4. **Resetting the Game:**
    - Use the "Reset Board" button to reset the board for a new game.
 
-## AI Algorithm
+## 🅰️ AI Algorithm
 
 The AI opponent in single-player mode uses random moves to make its decisions. While basic, it provides a challenging opponent for casual gameplay.
 
@@ -67,7 +67,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or feedback, feel free to reach out:
 
 - **Email:** [kunalsingh5431@gmail.com](mailto:kunalsingh5431@gmail.com)
-- **GitHub:** [KunalSingh5431](https://github.com/KunalSingh5431)
 
 ---
 
