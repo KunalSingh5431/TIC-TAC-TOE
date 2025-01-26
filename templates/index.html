@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TIC-TAC-TOE</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>   
+    <div class="container">
+        <h1 class="title">TIC-TAC-TOE</h1>
+        <div class="game-options">
+            <label for="game-mode">Select Game Mode:</label>
+            <select id="game-mode">
+                <option value="single">Single Player</option>
+                <option value="multi">Multiplayer</option>
+            </select>
+        </div>
+        <div class="player-inputs">
+            <div id="player1-container">
+                <label for="player1-name">Player 1 Name:</label>
+                <input type="text" id="player1-name" placeholder="Enter Player 1 Name">
+            </div>
+            <div id="player2-container" style="display: none;">
+                <label for="player2-name">Player 2 Name:</label>
+                <input type="text" id="player2-name" placeholder="Enter Player 2 Name">
+            </div>
+        </div>
+        <button id="start-game" class="btn">Start Game</button>
+        <div class="board">
+            <div class="cell" data-index="0"></div>
+            <div class="cell" data-index="1"></div>
+            <div class="cell" data-index="2"></div>
+            <div class="cell" data-index="3"></div>
+            <div class="cell" data-index="4"></div>
+            <div class="cell" data-index="5"></div>
+            <div class="cell" data-index="6"></div>
+            <div class="cell" data-index="7"></div>
+            <div class="cell" data-index="8"></div>
+        </div>
+        <button id="reset-board" class="btn">Reset Board</button>
+    </div>
+    <script src="/static/script.js"></script>
+</body>
+</html>
